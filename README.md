@@ -1,6 +1,6 @@
-# SparkEmailCount
+# ScalaEmailCount
 
-## Spark application that counts email addresses in a TCP stream.
+## Email Counter using Scala
 
 The main idea of this project was to create a spark streaming application which counts email addresses in a TCP
 stream in port 9999.
